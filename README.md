@@ -9,3 +9,7 @@ A collection of original wallpapers.
 > It helps others discover these wallpapers and motivates me to create more!
 
 ---
+
+> [!NOTE]
+> I'm using Photoshop and Photopea, no AI, nothing else.
+> These wallpapers are fully original and created by MRCYO, feel free to use them anywhere you want. ❤️
