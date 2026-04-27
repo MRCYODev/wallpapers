@@ -23,3 +23,24 @@
 
 ### Cached Bubble Red
 > ![cached_bubble_red](/wallpapers/os/linux/arch-based/cachyos/Cached_Bubble_Red.png)
+
+### Cached Bubble Blue
+> ![cached_bubble_blue](/wallpapers/os/linux/arch-based/cachyos/Cached_Bubble_Blue.png)
+
+### Clean Blue
+> ![clean_blue](/wallpapers/os/linux/arch-based/cachyos/Clean_Blue.png)
+
+### Clean Green
+> ![clean_green](/wallpapers/os/linux/arch-based/cachyos/Clean_Green.png)
+
+### Clean Orange
+> ![clean_orange](/wallpapers/os/linux/arch-based/cachyos/Clean_Orange.png)
+
+### Clean Pink
+> ![clean_pink](/wallpapers/os/linux/arch-based/cachyos/Clean_Pink.png)
+
+### Clean Purple
+> ![clean_purple](/wallpapers/os/linux/arch-based/cachyos/Clean_Purple.png)
+
+### Clean Red
+> ![clean_red](/wallpapers/os/linux/arch-based/cachyos/Clean_Red.png)
