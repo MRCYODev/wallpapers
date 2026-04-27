@@ -1,13 +1,10 @@
 # Wallpapers Preview
 
-### Cache Moon Night
-> ![cache_moon_night](/wallpapers/os/linux/arch-based/cachyos/Cache_Moon_Night.png)
-
 ### Cache Moon
 > ![cache_moon](/wallpapers/os/linux/arch-based/cachyos/Cache_Moon.png)
 
-### Emerald Flow
-> ![cache_moon_night](/wallpapers/os/linux/arch-based/cachyos/Emerald_Flow.png)
+### Cache Moon Night
+> ![cache_moon_night](/wallpapers/os/linux/arch-based/cachyos/Cache_Moon_Night.png)
 
 ### Cached Bubble Gray
 > ![cached_bubble_gray](/wallpapers/os/linux/arch-based/cachyos/Cached_Bubble_Gray.png)
@@ -44,3 +41,6 @@
 
 ### Clean Red
 > ![clean_red](/wallpapers/os/linux/arch-based/cachyos/Clean_Red.png)
+
+### Emerald Flow
+> ![cache_moon_night](/wallpapers/os/linux/arch-based/cachyos/Emerald_Flow.png)
